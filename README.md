@@ -43,7 +43,7 @@
 |  | Aptos | APTS | مسموح |
 |  | DIA |  DIA| مسموح |
 |  | Arbitrum  | ARB | مسموح |
-
+| |Polkadot| DOT||
 
 
 # قائمة العملات الرقمية الحرام الممنوعة
